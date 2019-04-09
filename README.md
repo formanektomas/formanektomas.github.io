@@ -18,15 +18,14 @@ formanek -at- vse.cz
 * ORCID: [https://orcid.org/0000-0003-1638-7230](https://orcid.org/0000-0003-1638-7230)  
 * [Research gate](https://www.researchgate.net/profile/Tomas_Formanek3)  
 
+
 #### Main areas of research
 * Spatial analysis, spatial econometrics  
 * Multivariate time series analysis  
 * Micro-level empirical analyses
 
 
-
 #### Teachings:  
 * [Advanced econometrics](https://sites.google.com/site/econometricsvse/advanced-econometrics)  (4EK608 - ENG, 4EK416 - CZE)
-
 * [Econometric seminar](https://sites.google.com/site/econometricseminar/home)  (4EK417 - CZE)
 
