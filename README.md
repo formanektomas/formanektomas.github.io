@@ -1,5 +1,6 @@
 ---
-title: "Tomáš Formánek"
+title: Personal page
+layout: post
 ---
 
 ## Tomáš Formánek
