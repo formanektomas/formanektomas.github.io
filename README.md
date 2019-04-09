@@ -14,7 +14,7 @@ formanek -at- vse.cz
 * PhD in Econometrics at University of Economics, Prague  
 
 
-#### Publications:  
+#### Publications  
 * ORCID: [https://orcid.org/0000-0003-1638-7230](https://orcid.org/0000-0003-1638-7230)  
 * [Research gate](https://www.researchgate.net/profile/Tomas_Formanek3)  
 
@@ -25,7 +25,7 @@ formanek -at- vse.cz
 * Micro-level empirical analyses
 
 
-#### Teachings:  
+#### Teachings  
 * [Advanced econometrics](https://sites.google.com/site/econometricsvse/advanced-econometrics)  (4EK608 - ENG, 4EK416 - CZE)
 * [Econometric seminar](https://sites.google.com/site/econometricseminar/home)  (4EK417 - CZE)
 
