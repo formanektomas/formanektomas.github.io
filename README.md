@@ -1,5 +1,3 @@
-<title>{{ page.title }}</title>
-
 Tomas Formanek
 ==============
 
