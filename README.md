@@ -1,6 +1,6 @@
 # Tomas Formanek
 
-![](https://github.com/formanektomas/formanektomas.github.io/blob/master/foto.jpg)
+![Foto](foto.jpg)
 
 Assistant professor at the [Department of Econometrics](https://ekonometrie.vse.cz/english/about/department/members/)  
 [University of Economics, Prague](https://www.vse.cz/english/)  
