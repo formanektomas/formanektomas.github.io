@@ -1,5 +1,3 @@
-# Tomas Formanek
-
 ![Foto](foto.jpg)
 
 Assistant professor at the [Department of Econometrics](https://ekonometrie.vse.cz/english/about/department/members/)  
