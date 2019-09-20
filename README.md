@@ -21,7 +21,7 @@ formanek -at- vse.cz
 #### Main areas of research
 * Spatial analysis, spatial econometrics  
 * Multivariate time series analysis  
-* Micro-level empirical analyses
+* Micro-level empirical analysis
 
 
 #### Teachings  
