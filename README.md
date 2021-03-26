@@ -25,6 +25,6 @@ formanek -at- vse.cz
 
 
 #### Teachings  
-* [Advanced econometrics](https://sites.google.com/site/econometricsvse/advanced-econometrics)  (4EK608 - ENG, 4EK416 - CZE)
+* [Advanced econometrics 1](https://formanektomas.github.io/4EK608_4EK416/)  (4EK608 - ENG, 4EK416 - CZE)
 * [Econometric seminar](https://formanektomas.github.io/4EK417/)  (4EK417 - CZE)
 
