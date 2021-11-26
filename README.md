@@ -24,6 +24,11 @@ formanek -at- vse.cz
 * Micro-level empirical analysis
 
 
+#### Web resources
+* [GitHub repositories](https://github.com/formanektomas)
+* [LinkedIn personal page](https://www.linkedin.com/in/formanektomas/)
+
+
 #### Teachings  
 * [Advanced econometrics 1](https://formanektomas.github.io/4EK608_4EK416/)  (4EK608 - ENG, 4EK416 - CZE)
 * [Econometric seminar](https://formanektomas.github.io/4EK417/)  (4EK417 - CZE)
